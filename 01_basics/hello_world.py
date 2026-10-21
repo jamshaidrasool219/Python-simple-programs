@@ -1,3 +1,2 @@
-# Program: Hello World
 print("Hello, World!")
-print("Assalam o Alaikum! Python mein khush amdeed.")
+print("Assalam o Alaikum! Welcome to world of python.")
