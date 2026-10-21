@@ -1,4 +1,3 @@
-# Program: Do numbers ka sum
-a = float(input("Pehla number likhein: "))
-b = float(input("Doosra number likhein: "))
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
 print("Sum =", a + b)
