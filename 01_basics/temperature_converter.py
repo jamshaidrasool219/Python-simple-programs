@@ -1,5 +1,4 @@
-# Program: Celsius se Fahrenheit aur Fahrenheit se Celsius
-c = float(input("Celsius likhein: "))
+c = float(input("Input Celsius: "))
 print("Fahrenheit =", (c * 9 / 5) + 32)
 
 f = float(input("Fahrenheit likhein: "))
