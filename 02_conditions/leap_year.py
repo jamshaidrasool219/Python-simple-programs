@@ -1,7 +1,6 @@
-# Program: Leap year check
-year = int(input("Saal likhein: "))
+year = int(input("Enter year: "))
 
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-    print(year, "leap year hai")
+    print(year, "Its a leap year")
 else:
-    print(year, "leap year nahi hai")
+    print(year, "Its not a leap year nahi")
