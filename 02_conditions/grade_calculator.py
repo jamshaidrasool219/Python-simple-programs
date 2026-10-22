@@ -1,8 +1,7 @@
-# Program: Marks se grade nikalna
-marks = float(input("Marks likhein (0-100): "))
+marks = float(input("Enter your Marks (0-100): "))
 
 if marks < 0 or marks > 100:
-    print("Ghalat marks!")
+    print("Wrong range of marks!")
 elif marks >= 90:
     print("Grade: A+")
 elif marks >= 80:
