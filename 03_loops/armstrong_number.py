@@ -1,5 +1,4 @@
-# Program: Armstrong number check (jaise 153 = 1^3 + 5^3 + 3^3)
-n = int(input("Number likhein: "))
+n = int(input("Enter Number: "))
 
 digits = str(n)
 power = len(digits)
