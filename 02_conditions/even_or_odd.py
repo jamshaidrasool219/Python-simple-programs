@@ -1,6 +1,5 @@
-# Program: Number even hai ya odd
-n = int(input("Number likhein: "))
+n = int(input("Write Number: "))
 if n % 2 == 0:
-    print(n, "even hai")
+    print(n, "Even Number")
 else:
-    print(n, "odd hai")
+    print(n, "Odd Number")
