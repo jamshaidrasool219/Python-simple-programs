@@ -1,11 +1,10 @@
-# Program: Teen numbers mein se sab se bara
-a = float(input("Pehla number: "))
-b = float(input("Doosra number: "))
-c = float(input("Teesra number: "))
+a = float(input("First number: "))
+b = float(input("Second number: "))
+c = float(input("Third number: "))
 
 if a >= b and a >= c:
-    print("Sab se bara:", a)
+    print("Largest number is:", a)
 elif b >= a and b >= c:
-    print("Sab se bara:", b)
+    print("Largest number is:", b)
 else:
-    print("Sab se bara:", c)
+    print("Largest number is:", c)
