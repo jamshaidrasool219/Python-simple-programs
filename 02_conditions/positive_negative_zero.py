@@ -1,5 +1,4 @@
-# Program: Number positive, negative ya zero
-n = float(input("Number likhein: "))
+n = float(input("Enter Number: "))
 
 if n > 0:
     print("Positive")
